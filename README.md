@@ -6,4 +6,16 @@
 16-12-2025: Longest Common Prefix <br>
 17-12-2025: Best Time to Buy and Sell Stock <br>
 18-12-2025: Roman to Integer <br>
-19-12-2025: <br>
+19-12-2025: Longest Substring Without Repeating Characters <br>
+20-12-2025: <br>
+21-12-2025: <br>
+22-12-2025: <br>
+23-12-2025: <br>
+24-12-2025: <br>
+25-12-2025: <br>
+26-12-2025: <br>
+27-12-2025: <br>
+28-12-2025: <br>
+29-12-2025: <br>
+30-12-2025: <br>
+31-12-2025: <br>
