@@ -7,7 +7,7 @@
 17-12-2025: Best Time to Buy and Sell Stock <br>
 18-12-2025: Roman to Integer <br>
 19-12-2025: Longest Substring Without Repeating Characters <br>
-20-12-2025: <br>
+20-12-2025: Merge Two Sorted Lists <br>
 21-12-2025: <br>
 22-12-2025: <br>
 23-12-2025: <br>
