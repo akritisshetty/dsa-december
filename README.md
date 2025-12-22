@@ -9,7 +9,7 @@
 19-12-2025: Longest Substring Without Repeating Characters <br>
 20-12-2025: Merge Two Sorted Lists <br>
 21-12-2025: Maximum Number of Words Found in Sentences <br>
-22-12-2025: Kids With the Greatest Number of Candies function <br>
+22-12-2025: Kids With the Greatest Number of Candies <br>
 23-12-2025: <br>
 24-12-2025: <br>
 25-12-2025: <br>
