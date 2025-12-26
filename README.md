@@ -13,7 +13,7 @@
 23-12-2025: Container With Most Water <br>
 24-12-2025: Find the Highest Altitude  <br>
 25-12-2025: Product of Array Except Self <br>
-26-12-2025: <br>
+26-12-2025: Majority Element <br>
 27-12-2025: <br>
 28-12-2025: <br>
 29-12-2025: <br>
