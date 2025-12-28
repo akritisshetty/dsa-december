@@ -15,7 +15,7 @@
 25-12-2025: Product of Array Except Self <br>
 26-12-2025: Majority Element <br>
 27-12-2025: Trapping Rain Water <br>
-28-12-2025: <br>
+28-12-2025: 3sum <br>
 29-12-2025: <br>
 30-12-2025: <br>
 31-12-2025: <br>
