@@ -18,4 +18,4 @@
 28-12-2025: 3sum <br>
 29-12-2025: Remove Duplicates from Sorted Array <br>
 30-12-2025: Plus One <br>
-31-12-2025: <br>
+31-12-2025: Single Number <br>
