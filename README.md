@@ -20,5 +20,5 @@
 30-12-2025: Plus One <br>
 31-12-2025: Single Number <br>
 01-01-2026: Intersection of Two Arrays II <br>
-02-01-2026: <br>
+02-01-2026: Subarray Sum Equals K <br>
 03-01-2026: <br>
