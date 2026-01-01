@@ -19,3 +19,6 @@
 29-12-2025: Remove Duplicates from Sorted Array <br>
 30-12-2025: Plus One <br>
 31-12-2025: Single Number <br>
+01-01-2026: Intersection of Two Arrays II function in C <br>
+02-01-2026: <br>
+03-01-2026: <br>
