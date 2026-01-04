@@ -22,3 +22,4 @@
 01-01-2026: Intersection of Two Arrays II <br>
 02-01-2026: Subarray Sum Equals K <br>
 03-01-2026: Check if the Sentence is Pangram <br>
+04-01-2026: Group Anagrams <br>
