@@ -25,3 +25,4 @@
 04-01-2026: Group Anagrams <br>
 05-01-2026: Valid Parentheses <br>
 06-01-2026: Longest Valid Parentheses <br>
+07-01-2026: Coin Change <br>
