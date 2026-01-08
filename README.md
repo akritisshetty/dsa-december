@@ -26,3 +26,4 @@
 05-01-2026: Valid Parentheses <br>
 06-01-2026: Longest Valid Parentheses <br>
 07-01-2026: Coin Change <br>
+08-01-2026: Find First and Last Position of Element in Sorted Array <br>
